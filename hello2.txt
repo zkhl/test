@@ -1,0 +1,1 @@
+Test it token works for all files.
